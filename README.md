@@ -7,7 +7,7 @@ Growtopia Autofarm with simple GUI | 100% UNDETECTED | AUTO SURG
 
 
 # Guide:
-Go to Releases tab / 
+Go to Releases tab / https://github.com/GafuGT/Growtopia-Autofarm/releases/tag/GrowtopiaAutofarm
 
 Click on Growtopia Autofarm.exe
 
