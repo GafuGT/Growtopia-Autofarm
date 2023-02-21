@@ -19,7 +19,7 @@ After that open the autofarm
 
 Press F10 and wait for it to load
 
-Done.
+Done
 
 # Features:
 
