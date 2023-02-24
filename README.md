@@ -9,17 +9,23 @@ Growtopia Autofarm with simple GUI | 100% UNDETECTED | AUTO SURG
 # Guide:
 Go to Releases tab / https://github.com/GafuGT/Growtopia-Autofarm/releases/tag/GrowtopiaAutofarm
 
-Click on Growtopia Autofarm.exe
+Download the .rar file to your device
 
-Wait for it to download
+Launch Growtopia
 
-Open Growtopia
+You must have your antivirus disabled
 
-After that open the autofarm
+Launch GafuAutofarm.exe
 
-Press F10 and wait for it to load
+An injector will popout
 
-Done
+Make sure you're already in Growtopia
+
+Click INJECT
+
+the exploit form will show
+
+Enjoy Exploiting
 
 # Features:
 
