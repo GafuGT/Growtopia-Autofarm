@@ -35,3 +35,7 @@ Autosurg
 
 MORE
 
+# Support
+
+https://discord.gg/cb4W62Hm
+
