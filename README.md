@@ -33,7 +33,7 @@ Autofarm
 
 Autosurg
 
-MORE
+MORE.
 
 # Support
 
