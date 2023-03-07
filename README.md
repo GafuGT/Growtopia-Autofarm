@@ -25,7 +25,7 @@ Click INJECT
 
 the exploit form will show
 
-Enjoy Exploiting.
+Enjoy Exploiting
 
 # Features:
 
